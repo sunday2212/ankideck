@@ -1,6 +1,6 @@
 {
   "name": "AnkiWeb Pro",
-  "description": "Vanilla JS Spaced Repetition Flashcard System with AI integration.",
+  "description": "Vanilla JS Spaced Repetition System.",
   "requestFramePermissions": [
     "camera"
   ]
